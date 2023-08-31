@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "history": "git@github.com:mdbudnick/video-history.git",
+    "gateway": "git@github.com:mdbudnick/video-gateway.git",
+    "metadata": "git@github.com:mdbudnick/video-metadata.git",
+    "streaming": "git@github.com:mdbudnick/video-streaming.git",
+    "recommendations": "git@github.com:mdbudnick/video-recommendations.git",
+    "storage": "git@github.com:mdbudnick/video-storage.git"
+  }
+}
